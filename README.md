@@ -1,2 +1,2 @@
-# C21
-Function with parameters
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
